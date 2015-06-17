@@ -6,8 +6,7 @@ The definition of the lables you want to create is defined in definitions.json. 
 
 ## TODO ##
 
-1. remove or fix the warnings related to insecure SSL connections
-1. make script adapt to existing labels to avoid having to delete them
+Issues are all tracked in GitHub Issues...using labels that I created with this script! There a a few enhancements I'd like to make, but feel free to post issues as and when you find them.
 
 ## Usage ##
 
