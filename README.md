@@ -4,10 +4,6 @@ This python script will generate the standard set of labels that we use in all o
 
 The definition of the lables you want to create is defined in definitions.json. The script expects all existing labels to have already been deleted. Errors will be generated if the label it's trying to create already exists.
 
-## TODO ##
-
-Issues are all tracked in GitHub Issues...using labels that I created with this script! There a a few enhancements I'd like to make, but feel free to post issues as and when you find them.
-
 ## Usage ##
 
 - set up a virtual environment (because I said so)
@@ -50,3 +46,9 @@ optional arguments:
   -t, --test            If true, performs a dry run without actually making
                         request to github
 ```
+
+## Limitations ##
+
+Issues are all tracked in GitHub Issues...using labels that I created with this script! There a a few enhancements I'd like to make, but feel free to post issues as and when you find them.
+
+
