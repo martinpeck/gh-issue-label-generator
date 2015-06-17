@@ -1,0 +1,17 @@
+{
+  "label" : [
+    {"name": "bug", "color": "eb6420"},
+    {"name": "enhancement", "color": "eb6420"},
+    {"name": "question", "color": "eb6420"},
+    {"name": "by design", "color": "fbca04"},
+    {"name": "duplicate", "color": "fbca04"},
+    {"name": "not repro", "color": "fbca04"},
+    {"name": "wont fix", "color": "fbca04"},
+    {"name": "low priority", "color": "207de5"},
+    {"name": "important", "color": "e11d21"},
+    {"name": "help wanted", "color": "159818"},
+    {"name": "in progress", "color": "ededed"},
+    {"name": "ready", "color": "ededed"},
+    {"name": "blocked", "color": "000000"}
+  ]
+}
