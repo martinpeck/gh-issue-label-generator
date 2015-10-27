@@ -2,6 +2,7 @@
   "label" : [
     {"name": "bug", "color": "eb6420"},
     {"name": "enhancement", "color": "eb6420"},
+    {"name": "engineering", "color": "#fad8c7"},
     {"name": "question", "color": "eb6420"},
     {"name": "by design", "color": "fbca04"},
     {"name": "duplicate", "color": "fbca04"},
@@ -11,6 +12,7 @@
     {"name": "important", "color": "e11d21"},
     {"name": "help wanted", "color": "159818"},
     {"name": "in progress", "color": "ededed"},
+    {"name": "support issue", "color": "#5319e7"},
     {"name": "ready", "color": "ededed"},
     {"name": "blocked", "color": "000000"}
   ]
