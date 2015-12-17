@@ -2,14 +2,14 @@
 
 This python script will generate the standard set of labels that we use in all of our GitHub issues databases.
 
-The definition of the lables you want to create is defined in definitions.json. The script expects all existing labels to have already been deleted. Errors will be generated if the label it's trying to create already exists.
+The definition of the lables you want to create is set within `definitions.json`. The script expects all existing labels to have already been deleted. Errors will be generated if the label it's trying to create already exists. The script will carry on, but it won't overwrite/modify the existing label.
 
 ## Usage ##
 
 - set up a virtual environment (because I said so)
 - install the requirements with `pip install -r requirements.txt`
-- make sure that ALL of the existing labels in the repository are deleted.
-- run gen-labels.py in the following manner...
+- make sure that ALL of the existing labels in the repository are deleted (or, be prepared to put up with some errors)
+- run `gen-labels.py` in the following manner...
 
 ```
 python gen-labels.py -u USERNAME -p PASSWORD -o REPOSITORY-OWNER -r REPOSITORY
@@ -49,6 +49,6 @@ optional arguments:
 
 ## Limitations ##
 
-Issues are all tracked in GitHub Issues...using labels that I created with this script! There a a few enhancements I'd like to make, but feel free to post issues as and when you find them.
+Issues are all tracked in GitHub Issues...using labels that I created with this script! There are a few enhancements I'd like to make, but feel free to post issues as and when you find them...or, better still, send me a pull request.
 
 
