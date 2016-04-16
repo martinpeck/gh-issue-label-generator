@@ -12,7 +12,7 @@
     {"name": "important", "color": "e11d21"},
     {"name": "help-wanted", "color": "159818"},
     {"name": "in-progress", "color": "ededed"},
-    {"name": "support issue", "color": "#5319e7"},
+    {"name": "support-issue", "color": "#5319e7"},
     {"name": "ready", "color": "ededed"},
     {"name": "blocked", "color": "000000"}
   ]
