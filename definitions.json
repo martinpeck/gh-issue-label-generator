@@ -1,22 +1,22 @@
 {
   "label" : [
-    {"name": "bug", "color": "#eb6420"},
-    {"name": "enhancement", "color": "#eb6420"},
+    {"name": "issue-type-bug", "color": "eb6420"},
+    {"name": "issue-type-enhancement", "color": "eb6420"},
+    {"name": "issue-type-question", "color": "eb6420"},
     
-    {"name": "by-design", "color": "#fbca04"},
-    {"name": "duplicate", "color": "#fbca04"},
-    {"name": "not-repro", "color": "#fbca04"},
-    {"name": "wont-fix", "color": "#fbca04"},
+    {"name": "resolved", "color": "fbca04"},    
+    {"name": "resolved-by-design", "color": "fbca04"},
+    {"name": "resolved-duplicate", "color": "fbca04"},
+    {"name": "resolved-not-repro", "color": "fbca04"},
+    {"name": "resolved-wont-fix", "color": "fbca04"},
     
-    {"name": "important", "color": "#e11d21"},
-    {"name": "low-priority", "color": "#207de5"},
+    {"name": "priority-high", "color": "e11d21"},
+    {"name": "priority-low", "color": "207de5"},
     
-    {"name": "question", "color": "#159818"},
-    {"name": "help-wanted", "color": "#159818"},
+    {"name": "help-wanted", "color": "159818"},
     
-    {"name": "in-progress", "color": "#ededed"},
-    {"name": "ready", "color": "#ededed"},
-   
-    {"name": "blocked", "color": "#000000"}
+    {"name": "status-in-progress", "color": "ededed"},
+    {"name": "status-ready", "color": "ededed"}, 
+    {"name": "status-blocked", "color": "000000"}
   ]
 }
