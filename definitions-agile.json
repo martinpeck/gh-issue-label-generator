@@ -1,0 +1,13 @@
+{
+  "label" : [
+    {"name": "0.5 micro", "color": "efefef"},
+    {"name": "1 tiny", "color": "dfefdf"},
+    {"name": "2 small", "color": "a0d0a0"},
+    {"name": "4 medium", "color": "53a2bf"},
+    {"name": "8 large", "color": "7564ae"},
+    {"name": "16 xlarge", "color": "e06040"},
+
+    {"name": "32 epic", "color": "ff2020"},
+    {"name": "backlog", "color": "ddccff"}
+  ]
+}
